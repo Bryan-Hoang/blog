@@ -1,11 +1,11 @@
-title: A Revolutionary Idea
+title: A Playground
 author: Bryan Hoang
 email: bryan.c.hoang@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My Blog
+  My Blogging Website
 
 # social links
-twitter_username: your-twitter-handle
+twitter_username: Bryan_C_H
 github_username:  Bryan-Hoang
 
 show_excerpts: true # set to false to remove excerpts on the homepage
